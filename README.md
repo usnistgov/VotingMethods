@@ -1,8 +1,9 @@
 # VotingMethods
 Voting Methods, Tabulation, and Data Interoperability
-The Voting Methods Working Group's (VMWG) work product is a standard, specification and reference consisting of rigorously and precisely defined models of v    oting methods or modules including counting, tabulation, mathematical evaluation, and, common operations on vote data sets to support Data Interoperability. 
 
-VMWG models include support for varieties of electoral systems or social choice theory (the rules by which we operate elections) such as plurality voting, n-of-m voting, range voting, ranked choice voting, approval voting, etc.
+The Voting Methods, Tabulation, and Data Interoperability Working Group's (Voting Methods Working Group, (VMWG)) work product is a standard, specification and reference consisting of rigorously and precisely defined models of voting methods or modules including counting, tabulation, mathematical evaluation, and, common operations on vote data sets to support Data Interoperability. 
+
+VMWG models include support for varieties of electoral systems or social choice theory (the rules by elections are operated) such as plurality voting, n-of-m voting, range voting, ranked choice voting, approval voting, etc.
 
 The utility of the VMWG's models and specification is that voting methods and modules are implemented accurately and uniformly across all use cases, voting equipment, and with an interoperable Common Data Format (CDF). 
 
