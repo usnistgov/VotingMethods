@@ -15,9 +15,19 @@ VM-WG is meeting periodically, and also holds focused hands-on working sub-group
 VM-WG ongoing activity includes Drafting guidance, specification and a standard intended to be submitted for approval for publishing as a NIST NIST 1500-X standard.
 
 Rapid prototyping and producing the following:
+
 Rigorously and precisely defined models of voting schemes, voting methods, or modules where counting, tabulation, mathematical evaluation, or common operations on vote data sets are performed in Elections Administration (EA) systems.
 
-A prototype process for knowledge acquisition and representation of EA counting and tabulation methods from the rules and guidelines for administering elections. EA processes are typically specified in written legislation, statute, rules and guidelines, or Request For Proposals (RFP) produced by Elections Officials (EO). English, or any spoken and written language is naturally less precise than a mathematical specification. Specifically, this process extracts the specification of counting and tabulation methods from plain language legislation and rules, and represents the counting and tabulation methods as mathematical models.
+A prototype process for knowledge acquisition and representation of EA counting and tabulation methods from the rules and guidelines for administering elections. EA processes are typically specified in written legislation, statute, rules and guidelines, or Request For Proposals (RFP) produced by Elections Officials (EO). English, or any spoken and written language is naturally less precise than a mathematical specification. Specifically, this process extracts the specification of counting and tabulation methods from plain language legislation and rules, and represents the counting and tabulation methods as a Universe suitable for writing mathematical models.
 
 Use Cases:
+
 Use Cases include auditing, aggregation & roll-up, verification, evidence procedures, capacity planning, testing, certification testing, security, information privacy, logging & tracing, common vote selection data set operations, legislative specification, EO specifications for RFIs and RFPs, Cybersecurity.
+
+Resources:
+http://collaborate.nist.gov/voting/bin/view/Voting/VotingMethodsModels
+
+Officers:
+VM-WG Chair & Editor: Lauren Massa-Lochridge
+NIST  Chair: John P. Wack
+VM-WG Chair: Auditability and Risk Management: Philp B. Stark
