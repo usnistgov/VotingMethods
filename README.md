@@ -10,6 +10,7 @@ The utility of the VMWG's models and specification is that voting methods and mo
 VMWG models can be configured and validated for the particular needs of the Elections Official, Election Administrator, electoral jurisdiction (e.g. state or county) and their use cases, including for functions like capacity planning, systems acceptance testing, and systems verification and testing. 
 
 Status:
+
 VM-WG is meeting periodically, and also holds focused hands-on working sub-group meeetings, and is developing guidance and a standard intended to be submitted for approval for publishing as a NIST NIST 1500-X standard.
 
 VM-WG ongoing activity includes Drafting guidance, specification and a standard intended to be submitted for approval for publishing as a NIST NIST 1500-X standard.
@@ -28,6 +29,9 @@ Resources:
 http://collaborate.nist.gov/voting/bin/view/Voting/VotingMethodsModels
 
 Officers:
+
 VM-WG Chair & Editor: Lauren Massa-Lochridge
+
 NIST  Chair: John P. Wack
+
 VM-WG Chair: Auditability and Risk Management: Philp B. Stark
