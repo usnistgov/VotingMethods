@@ -25,6 +25,8 @@ Use Cases:
 
 Use Cases include auditing, aggregation & roll-up, verification, evidence procedures, capacity planning, testing, certification testing, security, information privacy, logging & tracing, common vote selection data set operations, legislative specification, EO specifications for RFIs and RFPs, Cybersecurity.
 
+See also: http://collaborate.nist.gov/voting/bin/view/Voting/VVSGPrinciplesAndGuidelines
+
 Resources:
 http://collaborate.nist.gov/voting/bin/view/Voting/VotingMethodsModels
 
